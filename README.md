@@ -3,7 +3,7 @@
 
 <br>
 
-## 🌱 인프라 프로젝트 목록 🌱
+### 🎖️ 인프라 프로젝트 목록 🎖️
 
 | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 |
 |---------------|------|-----------|----------|------|
@@ -11,7 +11,9 @@
 | **Linux_PAM - VM 네트워크 및 보안 강화** | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화 | Linux, VirtualBox, PAM, 네트워크 설정 | 개인 프로젝트 | [GitHub 링크](https://github.com/RyuChaeHyun/Linux_PAM) |
 | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) |
 
-## ✨ 백엔드 프로젝트 목록 ✨
+<br>
+
+### ✨ 백엔드 프로젝트 목록 ✨
 
 | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 |
 |---------------|------|-----------|----------|------|
