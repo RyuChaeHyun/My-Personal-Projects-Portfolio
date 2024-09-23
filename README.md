@@ -1,4 +1,4 @@
-# 🤔 My-Personal-Projects-Portfolio
+# ˘ᗜ˘ My-Personal-Projects-Portfolio
 
 *최종 업데이트: 2024년 9월 24일*
 
