@@ -19,7 +19,7 @@
 | 3  | **SmartWorkflow-Crontab-PC-Manager**               | Crontab을 이용한 스마트 PC 관리 시스템                          | Linux, Crontab, Bash scripting, PAM                         | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/Linux_crontab) | 2024-09-20   |
 | 4  | **ELK Stack을 이용한 시스템 부하 모니터링 및 테스트** | 시스템에 부하를 주고 ELK 스택을 통해 실시간으로 모니터링          | ELK Stack (Elasticsearch, Logstash, Kibana), 시스템 성능 최적화, 부하 테스트 | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux) | 2024-09-23   |
 | 5  | **GitHub 중요정보 노출 방지를 위한 자동화 시스템** | GitHub 중요정보 노출을 Trivy로 자정마다 스캔하고 Slack으로 즉시 알림을 보내는 자동화 시스템 | Docker, Spring Boot, Trivy, Slack API                       | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) | 2024-09-24   |
-| 6  | **Spring Boot 기반 채팅 서버 도커화 및 성능 개선**   | 스프링 부트 기반 채팅 서버의 도커라이즈 및 성능 개선              | Docker, Spring Boot, 멀티 스테이지 빌드, 레이어드 JAR 사용    | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/SpringBoot-Docker-Optimization) | 2024-09-25   |
+| 6  | **Spring Boot 기반 채팅 서버 도커화 및 성능 개선**   | 스프링 부트 기반 채팅 서버의 도커라이즈 및 성능 개선              | Docker, Spring Boot, 멀티 스테이지 빌드, 레이어드 JAR 사용    | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Docker_Image_Optimization) | 2024-09-25   |
 
 
 <br>
