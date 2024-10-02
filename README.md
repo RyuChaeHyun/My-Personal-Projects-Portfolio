@@ -1,6 +1,6 @@
 # ˘ᗜ˘ My-Personal-Projects-Portfolio
 
-*최종 업데이트: 2024년 9월 26일*
+*최종 업데이트: 2024년 10월 2일*
 
 <br>
 
@@ -20,7 +20,7 @@
 | 4  | **ELK Stack을 이용한 시스템 부하 모니터링 및 테스트** | 시스템에 부하를 주고 ELK 스택을 통해 실시간으로 모니터링          | ELK Stack (Elasticsearch, Logstash, Kibana), 시스템 성능 최적화, 부하 테스트 | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux) | 2024-09-23   |
 | 5  | **GitHub 중요정보 노출 방지를 위한 자동화 시스템** | GitHub 중요정보 노출을 Trivy로 자정마다 스캔하고 Slack으로 즉시 알림을 보내는 자동화 시스템 | Docker, Spring Boot, Trivy, Slack API                       | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) | 2024-09-24   |
 | 6  | **Spring Boot 기반 채팅 서버 도커화 및 성능 개선**   | 스프링 부트 기반 채팅 서버의 도커라이즈 및 성능 개선              | Docker, Spring Boot, 멀티 스테이지 빌드, 레이어드 JAR 사용    | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Docker_Image_Optimization) | 2024-09-25   |
-
+| 7  | **MySQL 데이터 백업 및 복구 자동화 전략**            | 데이터 손실 방지 및 신속한 복구를 위한 자동화 시스템 구축        | MySQL, Docker, Crontab, 데이터 백업 및 복구                 | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/docker-mysql-data-migration) | 2024-09-27   |
 
 <br>
 
