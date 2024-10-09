@@ -14,14 +14,14 @@
 
 | No | 프로젝트 이름                                      | 설명                                                        | 주요 기술                                                     | 참여<br> 인원    | 링크                                             | 날짜         |
 |----|-------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|----------------|--------------------------------------------------|--------------|
-| 1  | **MySQL 및 ElasticSearch 연동 타이타닉 데이터 분석**           | Titanic과 Estonia 데이터셋을 ElasticSearch와 Kibana로 시각화 및 분석  | MySQL, Logstash, ElasticSearch, Kibana, 데이터 시각화       | 👩‍👩‍👧<br> (3명)   | [GitHub 링크](https://github.com/RyuChaeHyun/Data_Visualization_Project) | 2024-07-26   |
-| 2  | **VPN Tunneling 구축 프로젝트**                      | VPN Tunneling을 통한 보안 네트워크 구축                       | VPN, 네트워크 보안, IpSec                                   | 👩‍👩‍👧‍👦 (4명) | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13   |
-| 3  | **Linux_PAM - VM 네트워크 및 보안 강화**           | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화    | Linux, VirtualBox, PAM, 네트워크 설정                       | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/Linux_PAM)   | 2024-09-19   |
-| 4  | **SmartWorkflow-Crontab-PC-Manager**               | Crontab을 이용한 스마트 PC 관리 시스템                          | Linux, Crontab, Bash scripting, PAM                         | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/Linux_crontab) | 2024-09-20   |
-| 5  | **ELK Stack을 이용한 시스템 부하 모니터링 및 테스트** | 시스템에 부하를 주고 ELK 스택을 통해 실시간으로 모니터링          | ELK Stack (Elasticsearch, Logstash, Kibana), 시스템 성능 최적화, 부하 테스트 | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux) | 2024-09-23   |
-| 6  | **GitHub 중요정보 노출 방지를 위한 자동화 시스템** | GitHub 중요정보 노출을 Trivy로 자정마다 스캔하고 Slack으로 즉시 알림을 보내는 자동화 시스템 | Docker, Spring Boot, Trivy, Slack API                       | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) | 2024-09-24   |
-| 7  | **Spring Boot 기반 채팅 서버 도커화 및 성능 개선**   | 스프링 부트 기반 채팅 서버의 도커라이즈 및 성능 개선              | Docker, Spring Boot, 멀티 스테이지 빌드, 레이어드 JAR 사용    | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Docker_Image_Optimization) | 2024-09-25   |
-| 8  | **MySQL 데이터 백업 및 복구 자동화 전략**            | 데이터 손실 방지 및 신속한 복구를 위한 자동화 시스템 구축        | MySQL, Docker, Crontab, 데이터 백업 및 복구                 | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/docker-mysql-data-migration) | 2024-09-27   |
+| 1  | **타이타닉 데이터 분석 및 시각화**                | ElasticSearch와 Kibana를 활용한 데이터 분석 및 시각화         | MySQL, Logstash, ElasticSearch, Kibana                       | 👩‍👩‍👧<br> (3명)   | [GitHub 링크](https://github.com/RyuChaeHyun/Woori_MySQL_ELK_mini_project) | 2024-07-26   |
+| 2  | **VPN Tunneling 구축**                            | 보안 네트워크를 위한 VPN Tunneling 설정                      | VPN, 네트워크 보안, IpSec                                   | 👩‍👩‍👧‍👦 (4명) | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13   |
+| 3  | **VM 네트워크 보안 강화**                        | Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 정책 적용        | Linux, VirtualBox, PAM                                      | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/Linux_PAM)   | 2024-09-19   |
+| 4  | **PC 관리 자동화 시스템**                        | Crontab을 통한 PC 자동 종료 및 부팅 관리                    | Linux, Crontab, Bash scripting                              | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/Linux_crontab) | 2024-09-20   |
+| 5  | **시스템 부하 모니터링 및 테스트**                | ELK 스택으로 실시간 모니터링 및 부하 테스트                 | ELK Stack (Elasticsearch, Logstash, Kibana)                 | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux) | 2024-09-23   |
+| 6  | **GitHub 보안 자동화 시스템**                    | Trivy로 GitHub 중요 정보 노출 감지 및 Slack 알림 설정           | Docker, Spring Boot, Trivy, Slack API                       | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) | 2024-09-24   |
+| 7  | **채팅 서버 도커화 및 성능 개선**                | 스프링 부트 기반 채팅 서버를 도커라이즈하고 성능 최적화         | Docker, Spring Boot, 멀티 스테이지 빌드, 레이어드 JAR        | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Docker_Image_Optimization) | 2024-09-25   |
+| 8  | **MySQL 백업 및 복구 자동화**                    | 데이터 백업 및 복구 자동화 시스템 구축                      | MySQL, Docker, Crontab                                      | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/docker-mysql-data-migration) | 2024-09-27   |
 
 <br>
 
@@ -29,10 +29,9 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **Java 스트림 및 람다를 이용한 코드 리팩토링** | 기존 Java 코드를 스트림과 람다를 사용해 현대적으로 리팩토링 | Java 17, 스트림 API, 람다 표현식 | 👩‍👩‍👧‍👦 <br> (4명) | [GitHub 링크](https://github.com/castlhoo/Refactoring) | 2024-07-19 |
-| 2  | **JPA 영속성 컨텍스트 학습을 위한 문제 제작** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 👩‍👩‍👧‍👦 <br> (6명) | [GitHub 링크](https://github.com/Fisa3/OJT_Project) | 2024-08-02 |
-| 3  | **FISA 학생들을 위한 커뮤니티 - 맛집 공유 및 모임 생성** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React | 👩‍👩‍👧‍👦 <br> (7명) | [GitHub 링크](https://github.com/yuwankang/FISA-Land) | 2024-08-16 |
-
+| 1  | **Java 스트림 및 람다 리팩토링** | Java 코드를 스트림과 람다로 현대화 | Java 17, 스트림 API, 람다 | 👩‍👩‍👧‍👦 <br> (4명) | [GitHub 링크](https://github.com/castlhoo/Refactoring) | 2024-07-19 |
+| 2  | **JPA 영속성 컨텍스트 학습 문제 개발** | JPA 영속성 컨텍스트 예제 문제 제작 | Java, JPA, 영속성 컨텍스트 | 👩‍👩‍👧‍👦 <br> (6명) | [GitHub 링크](https://github.com/Fisa3/OJT_Project) | 2024-08-02 |
+| 3  | **FISA 학생 커뮤니티 플랫폼 개발** | FISA 학생 대상 커뮤니티 및 대여 서비스 | Spring Boot, JPA, React | 👩‍👩‍👧‍👦 <br> (7명) | [GitHub 링크](https://github.com/yuwankang/FISA-Land) | 2024-08-16 |
 ---
 
 이 포트폴리오는 지속적으로 업데이트됩니다.
