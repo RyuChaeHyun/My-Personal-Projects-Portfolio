@@ -22,7 +22,7 @@
 | 6  | **비밀번호 및 API 키 노출 방지를 위한 자동화 시스템** | Trivy로 GitHub 중요 정보 노출 감지 및 Slack 알림 설정          | Docker, Spring Boot, Trivy, Slack API                       | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) | 2024-09-24   |
 | 7  | **채팅 서버 도커화 및 이미지 최적화**              | 스프링 부트 기반 채팅 서버를 도커라이즈하고 도커이미지 최적화 | Docker, Spring Boot, 멀티 스테이지 빌드, 레이어드 JAR        | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Docker_Image_Optimization) | 2024-09-25   |
 | 8  | **MySQL 백업 및 복구 자동화**                    | 데이터 백업 및 복구 자동화 시스템 구축                      | MySQL, Docker, Crontab                                      | 🙋<br> (개인)   | [GitHub 링크](https://github.com/RyuChaeHyun/docker-mysql-data-migration) | 2024-09-27   |
-| 9  | **JMeter: Black Friday WAS StressTest**           | 블랙 프라이데이 대비 JMeter 시스템 부하 테스트 및 성능 검증          | Apache JMeter, Grafana, AWS EC2, Spring Boot                | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/Black-Friday-StressTest) | 2024-10-08   |
+| 9  | **Black Friday Sale 트래픽 부하 테스트**           | 블랙 프라이데이 대비 JMeter 시스템 부하 테스트 및 성능 검증          | Apache JMeter, Grafana, AWS EC2, Spring Boot                | 👩‍👩‍👧 (3명) | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest) | 2024-10-08   |
 
 <br>
 
