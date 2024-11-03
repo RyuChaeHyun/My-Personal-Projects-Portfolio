@@ -14,11 +14,12 @@
 
 | No | 프로젝트 이름                  | 사진                             | 주요 내용                                        | 링크                                                                       |
 |----|-----------------------------|--------------------------------|-------------------------------------------------|----------------------------------------------------------------------------|
-| 1  | **스마트 부동산 플랫폼**          | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/5066957b-bd3d-4572-b32a-9f7d56e765bd">| 블록체인 기반 부동산 거래 자동화 및 실시간 채팅 서버 구축         | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)         |
-| 2  | **EFK 기반 로그 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/f26d4530-ded8-4b31-ad80-9e11082fbb1a">| 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
+| 1  | **스마트 부동산 플랫폼**          | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/1a478a66-fc5c-4665-bddc-1c4c9120b63e"> | 블록체인 기반 부동산 거래 자동화 및 실시간 채팅 서버 구축         | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)         |
+| 2  | **EFK 기반 로그 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/f26d4530-ded8-4b31-ad80-9e11082fbb1a"> | 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
 | 3  | **대규모 트래픽 부하 테스트**    | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/fe8e69e6-2e90-4de5-befd-ed633c496f8d"> | JMeter & Grafana로 시스템 성능 검증                    | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)              |
-| 4  | **실시간 시스템 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/229abbcc-7174-46bf-ac48-e186317512bd">| ELK Stack 기반 실시간 모니터링 대시보드 구축          | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux)         |
-| 5  | **보안 취약점 자동 감지**        | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/bdf5087a-b0ec-4e23-aa1a-ac299837185b">| Trivy를 활용한 GitHub 코드 스캐닝 & Slack 알림     | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) |
+| 4  | **실시간 시스템 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/229abbcc-7174-46bf-ac48-e186317512bd"> | ELK Stack 기반 실시간 모니터링 대시보드 구축          | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux)         |
+| 5  | **보안 취약점 자동 감지**        | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/bdf5087a-b0ec-4e23-aa1a-ac299837185b"> | Trivy를 활용한 GitHub 코드 스캐닝 & Slack 알림     | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) |
+
 
 ---
 
