@@ -14,12 +14,11 @@
 
 | No | 프로젝트 이름                  | 사진                             | 주요 내용                                        | 링크                                                                       |
 |----|-----------------------------|--------------------------------|-------------------------------------------------|----------------------------------------------------------------------------|
-| 1  | **실시간 시스템 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/229abbcc-7174-46bf-ac48-e186317512bd">| ELK Stack 기반 실시간 모니터링 대시보드 구축          | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux)         |
-| 2  | **보안 취약점 자동 감지**        | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/bdf5087a-b0ec-4e23-aa1a-ac299837185b">| Trivy를 활용한 GitHub 코드 스캐닝 & Slack 알림     | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) |
-| 3  | **대규모 트래픽 부하 테스트**    | ![500_10](https://github.com/user-attachments/assets/fe8e69e6-2e90-4de5-befd-ed633c496f8d)| JMeter & Grafana로 시스템 성능 검증                    | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)              |
-| 4  | **스마트 부동산 플랫폼**          | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/5066957b-bd3d-4572-b32a-9f7d56e765bd">| 블록체인 기반 부동산 거래 자동화 및 실시간 채팅 서버 구축         | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)         |
-| 5  | **EFK 기반 로그 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/f26d4530-ded8-4b31-ad80-9e11082fbb1a">| 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
-
+| 1  | **스마트 부동산 플랫폼**          | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/5066957b-bd3d-4572-b32a-9f7d56e765bd">| 블록체인 기반 부동산 거래 자동화 및 실시간 채팅 서버 구축         | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)         |
+| 2  | **EFK 기반 로그 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/f26d4530-ded8-4b31-ad80-9e11082fbb1a">| 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
+| 3  | **대규모 트래픽 부하 테스트**    | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/fe8e69e6-2e90-4de5-befd-ed633c496f8d"> | JMeter & Grafana로 시스템 성능 검증                    | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)              |
+| 4  | **실시간 시스템 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/229abbcc-7174-46bf-ac48-e186317512bd">| ELK Stack 기반 실시간 모니터링 대시보드 구축          | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux)         |
+| 5  | **보안 취약점 자동 감지**        | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/bdf5087a-b0ec-4e23-aa1a-ac299837185b">| Trivy를 활용한 GitHub 코드 스캐닝 & Slack 알림     | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) |
 
 ---
 
@@ -32,9 +31,9 @@
 | No | 프로젝트 이름                    | 설명                                       | 기술 스택                            | 링크                                       |
 |----|---------------------------------|------------------------------------------|--------------------------------------|--------------------------------------------|
 | 1  | **ELK 기반 실시간 모니터링**        | EDA 아키텍처 기반 실시간 시스템 모니터링    | ELK Stack, Stress                   | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux) |
-| 2  | **대규모 트래픽 테스트**            | JMeter & Grafana 기반 시스템 성능 분석      | JMeter, Grafana, AWS                | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)      |
-| 3  | **대규모 데이터 파이프라인 구축**    | ElasticSearch 기반 데이터 시각화           | MySQL, ELK Stack                    | [GitHub 링크](https://github.com/RyuChaeHyun/Woori_MySQL_ELK_mini_project) |
-| 4  | **EFK 기반 로그 모니터링**          | 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | EFK Stack, ArgoCD, K8s              | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
+| 2  | **EFK 기반 로그 모니터링**          | 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | EFK Stack, ArgoCD, K8s              | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
+| 3  | **대규모 트래픽 테스트**            | JMeter & Grafana 기반 시스템 성능 분석      | JMeter, Grafana, AWS                | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)      |
+| 4  | **대규모 데이터 파이프라인 구축**    | ElasticSearch 기반 데이터 시각화           | MySQL, ELK Stack                    | [GitHub 링크](https://github.com/RyuChaeHyun/Woori_MySQL_ELK_mini_project) |
 
 <br>
 
@@ -53,10 +52,11 @@
 
 | No | 프로젝트 이름                   | 설명                                         | 기술 스택                          | 링크                                      |
 |----|------------------------------|--------------------------------------------|------------------------------------|-------------------------------------------|
-| 1  | **실시간 채팅 서버**             | 웹소켓 기반 채팅 & 도커 최적화               | Spring WebSocket, Docker, 멀티 스테이지 빌드          | [GitHub 링크](https://github.com/RyuChaeHyun/Docker_Image_Optimization)         |
-| 2  | **커뮤니티 플랫폼**              | FISA 학생 대상 서비스 플랫폼                  | Spring Boot, React, AWS           | [GitHub 링크](https://github.com/yuwankang/FISA-Land)                           |
-| 3  | **JPA 학습 프로젝트**           | 영속성 컨텍스트 실습 환경 구축               | JPA, Java 17                      | [GitHub 링크](https://github.com/Fisa3/OJT_Project)                             |
-| 4  | **스마트 부동산 플랫폼**          | 블록체인 기반 부동산 거래 및 실시간 채팅 솔루션 구축  | 스마트 컨트랙트, Solidity, Kafka, WebSocket | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)             |
+| 1  | **스마트 부동산 플랫폼**          | 블록체인 기반 부동산 거래 및 실시간 채팅 솔루션 구축  | 스마트 컨트랙트, Solidity, Kafka, WebSocket | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)             |
+| 2  | **실시간 채팅 서버**             | 웹소켓 기반 채팅 & 도커 최적화               | Spring WebSocket, Docker, 멀티 스테이지 빌드          | [GitHub 링크](https://github.com/RyuChaeHyun/Docker_Image_Optimization)         |
+| 3  | **커뮤니티 플랫폼**              | FISA 학생 대상 서비스 플랫폼                  | Spring Boot, React, AWS           | [GitHub 링크](https://github.com/yuwankang/FISA-Land)                           |
+| 4  | **JPA 학습 프로젝트**           | 영속성 컨텍스트 실습 환경 구축               | JPA, Java 17                      | [GitHub 링크](https://github.com/Fisa3/OJT_Project)                             |
+
 
 
 <br>
