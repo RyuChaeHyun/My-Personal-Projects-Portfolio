@@ -1,27 +1,24 @@
-# ˘ᗜ˘ My-Personal-Projects-Portfolio
 
-*최종 업데이트: 2024년 10월 10일* 
-<br>
 
-안녕하세요! 이 레포지토리는 **스스로 탐구하고 기획하여 진행한 다양한 미니 프로젝트들을 모아놓은 포트폴리오**입니다.😊 <br>
-
-<br>
 
 ![최종 타임라인](https://github.com/user-attachments/assets/7dd9bc2b-a66a-427e-9732-31c08649bdf5)
 
-## 
-<br>
+안녕하세요! 이 레포지토리는 **스스로 탐구하고 기획하여 진행한 다양한 미니 프로젝트들을 모아놓은 포트폴리오**입니다.😊
 
+*최종 업데이트: 2024년 11월 04일* 
+
+<br>
 
 ## 🌟 주요 프로젝트
 
 | No | 프로젝트 이름                  | 사진                             | 주요 내용                                        | 링크                                                                       |
 |----|-----------------------------|--------------------------------|-------------------------------------------------|----------------------------------------------------------------------------|
-| 1  | **실시간 시스템 모니터링**       | <img width="300" alt="image" src="https://github.com/user-attachments/assets/229abbcc-7174-46bf-ac48-e186317512bd">| ELK Stack 기반 실시간 모니터링 대시보드 구축          | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux)         |
-| 2  | **보안 취약점 자동 감지**        | <img width="300" alt="image" src="https://github.com/user-attachments/assets/bdf5087a-b0ec-4e23-aa1a-ac299837185b">| Trivy를 활용한 GitHub 코드 스캐닝 & Slack 알림     | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) |
-| 3  | **대규모 트래픽 부하 테스트**    | <img width="300" alt="image" src="https://path-to-your-gif.gif"> | JMeter & Grafana로 시스템 성능 검증                    | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)              |
-| 4  | **스마트 부동산 플랫폼**          | <img width="300" alt="image" src="https://github.com/user-attachments/assets/5066957b-bd3d-4572-b32a-9f7d56e765bd">| 블록체인 기반 부동산 거래 자동화 및 실시간 채팅 서버 구축         | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)         |
-| 5  | **EFK 기반 로그 모니터링**       | <img width="300" alt="image" src="https://github.com/user-attachments/assets/f26d4530-ded8-4b31-ad80-9e11082fbb1a">| 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
+| 1  | **실시간 시스템 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/229abbcc-7174-46bf-ac48-e186317512bd">| ELK Stack 기반 실시간 모니터링 대시보드 구축          | [GitHub 링크](https://github.com/RyuChaeHyun/Average-Load-in-Linux)         |
+| 2  | **보안 취약점 자동 감지**        | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/bdf5087a-b0ec-4e23-aa1a-ac299837185b">| Trivy를 활용한 GitHub 코드 스캐닝 & Slack 알림     | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) |
+| 3  | **대규모 트래픽 부하 테스트**    | <img width="300" height="150" alt="image" src="https://path-to-your-gif.gif"> | JMeter & Grafana로 시스템 성능 검증                    | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)              |
+| 4  | **스마트 부동산 플랫폼**          | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/5066957b-bd3d-4572-b32a-9f7d56e765bd">| 블록체인 기반 부동산 거래 자동화 및 실시간 채팅 서버 구축         | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)         |
+| 5  | **EFK 기반 로그 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/f26d4530-ded8-4b31-ad80-9e11082fbb1a">| 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
+
 
 ---
 
@@ -61,6 +58,8 @@
 | 4  | **스마트 부동산 플랫폼**          | 블록체인 기반 부동산 거래 및 실시간 채팅 솔루션 구축  | 스마트 컨트랙트, Solidity, Kafka, WebSocket | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)             |
 
 
----
+<br>
 
- 
+> 💡 Full Cycle 개발자를 지향하며 시스템 설계부터 운영까지 전반적인 기술 스택을 다루고 있습니다.
+
+*이 포트폴리오는 지속적으로 업데이트됩니다.*
