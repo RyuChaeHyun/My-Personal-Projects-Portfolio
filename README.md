@@ -14,7 +14,7 @@
 
 | No | 프로젝트 이름                  | 사진                             | 주요 내용                                        | 링크                                                                       |
 |----|-----------------------------|--------------------------------|-------------------------------------------------|----------------------------------------------------------------------------|
-| 1  | **OWASP 기반 보안 자동화 플랫폼** |![화면 기록 2025-01-03 오후 5 39 20](https://github.com/user-attachments/assets/fa5ef986-e869-44c2-962e-7b087785cf27) | OWASP Top 10 기반 파일 업로드/다운로드 취약점 연구 및 자동화 테스트 | [GitHub 링크](https://github.com/RyuChaeHyun/OWASP-File-Upload-Analyzer) |
+| 1  | **OWASP 기반 보안 자동화 플랫폼** |![화면 기록 2025-01-03 오후 5 39 20](https://github.com/user-attachments/assets/fa5ef986-e869-44c2-962e-7b087785cf27) | 보안전문가를 위한 **OWASP Top 10 기반 파일 업로드/다운로드 취약점** 연구 및 자동화 테스트 사이트 | [GitHub 링크](https://github.com/RyuChaeHyun/OWASP-File-Upload-Analyzer) |
 | 2  | **스마트 부동산 플랫폼**          | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/1a478a66-fc5c-4665-bddc-1c4c9120b63e"> | 블록체인 기반 부동산 거래 자동화 및 실시간 채팅 서버 구축         | [GitHub 링크](https://github.com/yourusername/Real_Estate_Platform)         |
 | 3  | **EFK 기반 로그 모니터링**       | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/f26d4530-ded8-4b31-ad80-9e11082fbb1a"> | 쿠버네티스 환경에서 ArgoCD와 EFK 스택을 활용한 자동화 로그 수집 및 분석 | [GitHub 링크](https://github.com/yourusername/EFK_ArgoCD_Log_Monitoring)    |
 | 4  | **대규모 트래픽 부하 테스트**    | <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/fe8e69e6-2e90-4de5-befd-ed633c496f8d"> | JMeter & Grafana로 시스템 성능 검증                    | [GitHub 링크](https://github.com/RyuChaeHyun/JMeterStressTest)              |
@@ -42,7 +42,7 @@
 
 | No | 프로젝트 이름                       | 설명                                       | 기술 스택                           | 링크                                        |
 |----|----------------------------------|------------------------------------------|------------------------------------|---------------------------------------------|
-| 1  | **OWASP 기반 보안 자동화 플랫폼** | OWASP Top 10 기반 파일 업로드/다운로드 취약점 연구 및 자동화 테스트 | Docker, OWASP, Trivy | [GitHub 링크](https://github.com/RyuChaeHyun/OWASP-File-Upload-Analyzer) |
+| 1  | **OWASP 기반 보안 자동화 플랫폼** | 보안전문가를 위한 OWASP Top 10 기반 파일 업로드/다운로드 취약점 연구 및 자동화 테스트(Express-FileUpload v1.4.0, Formidable 등) | Docker, OWASP, Trivy | [GitHub 링크](https://github.com/RyuChaeHyun/OWASP-File-Upload-Analyzer) |
 | 2  | **보안 취약점 자동 감지**             | Trivy 기반 GitHub 코드 스캐닝 & Slack 알림           | Docker, Spring Boot, Trivy        | [GitHub 링크](https://github.com/RyuChaeHyun/Secret_Information_Detection_System) |
 | 3  | **VPN Tunneling**               | IpSec 기반 보안 네트워크 구축             | VPN, IpSec                        | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling)                      |
 | 4  | **시스템 자동화**                | MySQL 백업/복구 & PC 관리 자동화         | Docker, Crontab                   | [GitHub 링크](https://github.com/RyuChaeHyun/Linux_crontab)                     |
