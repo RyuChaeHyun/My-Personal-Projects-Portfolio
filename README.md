@@ -1,6 +1,6 @@
 
 # ˘ᗜ˘ My-Personal-Projects-Portfolio
-*최종 업데이트: 2024년 11월 04일*  
+*최종 업데이트: 2025년 1월 04일*  
 
 ![최종 타임라인](https://github.com/user-attachments/assets/7dd9bc2b-a66a-427e-9732-31c08649bdf5)
 
